@@ -1,5 +1,3 @@
-package base;
-
 import org.openqa.grid.web.servlet.handler.WebDriverRequest;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
