@@ -1,10 +1,2 @@
-
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-  
-<suite name="LckdAutoTest" verbose="1" >
-  <test name="testcase">
-    <classes>
-      <class name="login"/>
-    </classes>
-  </test>
-</suite>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="D:/IdeaProjects/lckdautotest"><classes/></test></suite>

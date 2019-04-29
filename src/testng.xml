@@ -1,0 +1,10 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="LckdAutoTest" verbose="1" >
+  <test name="testcase">
+    <classes>
+      <class name="login"/>
+    </classes>
+  </test>
+</suite>
