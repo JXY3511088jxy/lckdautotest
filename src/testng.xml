@@ -4,7 +4,7 @@
 <suite name="LckdAutoTest" verbose="1" >
   <test name="testcase">
     <classes>
-      <class name="login"/>
+      <class name="cases.login"/>
     </classes>
   </test>
 </suite>

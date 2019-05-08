@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="lckdautotest">
+    <output-path>$PROJECT_DIR$/out/artifacts/lckdautotest</output-path>
+    <root id="archive" name="lckdautotest.jar" />
+  </artifact>
+</component>

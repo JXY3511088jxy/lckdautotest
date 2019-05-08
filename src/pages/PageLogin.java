@@ -28,7 +28,7 @@ public class PageLogin {
     }
 
     public static WebElement Loginout_sure(WebDriver driver){
-        element = driver.findElement(By.xpath("//*[@id=\"fineui_38\"]/span/span"));
+        element = driver.findElement(By.xpath("//*[@id=\"fineui_42\"]/span/span"));
         return element;
     }
 }
